@@ -1,15 +1,15 @@
-# Hacking Smart Toys for AI Learning 
+# Designing Smart Toys for AI Learning 
 
 ![Banner](https://i.imgur.com/VknwZtP.png)
 
-### This is the syllabus for the Hacking Smart Toys Graduate Class at NYU ITP Spring 2019 
+### This is the syllabus for the Hacking Smart Toys Graduate Class at RISD Spring 2019 
 
 * Official Title: Hacking Smart Toys for AI Learning ITPG-GT.2495.1
 * Unofficial Titles: Hard Fun! 
 * Instructor Name: Stefania Druga 
-* Instructor Email: sd3107@nyu.edu
-* Office Hours: https://sditp.youcanbook.me
-* Class Calendar: [here](https://calendar.google.com/calendar/b/4?cid=bnl1LmVkdV91Zmd0czg5bzQ1cDJ2Nm45Z2UycWxsYmIwOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* Instructor Email: sdruga@risd.edu 
+<!-- * Office Hours: https://sditp.youcanbook.me -->
+<!-- * Class Calendar: [here](https://calendar.google.com/calendar/b/4?cid=bnl1LmVkdV91Zmd0czg5bzQ1cDJ2Nm45Z2UycWxsYmIwOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) -->
 ### Objectives:
 Students will also design their own AI toys or construction kits which they will test in local communities (schools, libraries, museum, community centers). Final projects will be displayed in a play exhibition where all communities involved throughout the course will be invited to participate. 
 
@@ -34,7 +34,7 @@ Design journal (Individual)	20%
 ### Weekly Breakdown:
 
 #### Week 1:Learn through play and why it matters
-Date: 02.01.2019
+<!-- Date: 02.01.2019 -->
 Before Class: Please watch these videos before class:
 * [100 Greatest Toys (2010)!](https://www.youtube.com/watch?v=Zni47wq1VG4) 
 * [Boys and Girls should play together (Tedx Talk 2012)!](https://www.youtube.com/watch?v=frKHV3iTdpI)
@@ -47,7 +47,7 @@ Reading Assignment: "The Veldt" Short sci-fi story by Ray Bradbury (available [h
 Design journal assignment: Share a story about an evocative object from your childhood 
 
 #### Week 2: Diving into smart toys: Cozmo, Hello Barbie and Sphero Mini
-Date: 02.08.2019
+<!-- Date: 02.08.2019 -->
 Discussion: Impressions and thoughts on "The Veld" short story
 In Class Exercises: We will play with three connected toys(Cozmo, Hello Barbie and Sphero Mini) and then learn how to look behind the curtain and re-engineer them by using their SDKs, Cognimates and other platforms. Students will also learn how to analyze these toys by looking at their form factor, interaction design, play affordances, and many other criteria. We will also discuss co-designing for play and creative learning with youth and what are some of the most successful strategies for learning by playing and by doing. 
 
@@ -61,7 +61,7 @@ Production Assignment: Make groups of 2-3 students. Pick a persona (it can be a 
 
 
 #### Week 3: Learn from Toy Designers 
-Date: 02.15.2019
+<!-- Date: 02.15.2019 -->
 Discussion: We will have a toy designer guest who will introduce us through their process and present the toys they built. They will also provide feedback on your home projects in a critique studio session. 
 Show: Every group will get 10 minutes to present their home project and then 5 min for questions and feedback. 
 
@@ -75,7 +75,7 @@ Research Assignment: Find a toy that you like (or dislike) and try to see how di
 
 
 #### Week 4: Tinker Toys: Lego, AIY, and Microbit 
-Date: 02.22.2019
+<!-- Date: 02.22.2019 -->
 
 Discussion: 3 students will be randomly selected to present their findings on the research assignment (5 min each + Q&A)
 In Class Exercises: In this week class we will play with more DIY and tinkerable toys and learn how to assemble, program them and make them "smart" by connecting them to other cognitive services like vision or sentiment recognition. Students will then divide into groups, pick some of the parts from different kits and try to combine them in unusual ways. We will also have crafting and prototyping materials for this part of the session. We will end with a play session where we all go around and play with each other creations and provide feedback on each other creations. 
@@ -88,7 +88,7 @@ Reading Assignment:
 Production Assignment: Make groups of 2-3 students. Pick a persona (it can be a child or adult) and design a lo-fi toy for them that can only be played within a specific environment. Also design a field research methodology for playtesting your creation with kids
 
 #### Week 5: Playing and learning from kids (site visit) 
-Date: 03.01.2019
+<!-- Date: 03.01.2019 -->
 
 Activity: We will visit an after-school center and play-test your lo-fi projects with kids and get their feedback. 
 After introducing them to the lo-fi prototypes you will show them the other toys you got to use during the class and observe how they play with them, what they like and what they don't. What is unique about the way they play with a specific toy? Do they play alone or together? What are their feature requests? You will work in groups and use your field research methodology to best capture the findings. 
@@ -96,7 +96,7 @@ After introducing them to the lo-fi prototypes you will show them the other toys
 Reflection & production assignment: Go back to your lo-fi prototype and make changes based on kids feedback and field observations. Document your thinking and design process. 
 
 #### Week 6: Learn from interaction designers for kids 
-Date: 03.08.2019
+<!-- Date: 03.08.2019 -->
 
 Discussion: We will have an interaction designer who will introduce us through their process and present some of their projects. The guest will also provide feedback on your home lo-fi projects in a critique studio session. 
 
@@ -107,14 +107,14 @@ Assignment: Pick a paper from previous [proceedings to Interaction Design for Ch
 
 
 #### Week 7: Discover and play with VUI (Alexa, Ghome, chatbots) 
-Date: 03.15.2019
+<!-- Date: 03.15.2019 -->
 
 Activity: we will dive into various VUI platforms and learn how to customize the interaction flow. 
 
 Assignment: Find a paper that researches the impact of VUI on people and discuss it in your class journal. 
 
 #### Week 8: Bring to life your old toys
-Date: 03.22.2019
+<!-- Date: 03.22.2019 -->
 
 Activity: In this class we will hack our old toys and bring them to life. Bring to class old toys of yours or that you can source from thrift stores or online. We will also have lots of leds, speakers, sensors, and other electronics to bring the old toys to life. 
 
@@ -123,7 +123,7 @@ Assignment: Make a proposal for your final project (toy, kit, learning experienc
 
 
 #### Week 9: Program your DIY toy/kit  
-Date: 03.29.2019
+<!-- Date: 03.29.2019 -->
 
 Activity: In this class, we will learn how to make our DIY programmable toys/kits for kids by creating and modifying existing [Scratch!](scratch.mit.edu) and [Cognimates!](cognimates.me) block extensions. 
 
@@ -134,7 +134,7 @@ Assignment: Create a starter project and learning activity with the new programm
 
 
 #### Week 10: Train your DIY toy/kit  
-Date: 04.05.2019
+<!-- Date: 04.05.2019 -->
 
 Activity: In this class, we will learn how to train our DIY programmable toys/kits for kids by using transfer learning and custom classifiers APIs. See example [Teach AI!](http://cognimate.me:2635/home) page on Cognimates. We will discuss how to build games and learning activities for children to be able to use our teach the toy system.  
 
@@ -144,7 +144,7 @@ Assignment: Create a user-friendly interface for kids to teach/train your DIY to
 
 
 #### Week 11: Materials trip (site visit to Material Connexion) 
-Date: 04.12.2019
+<!-- Date: 04.12.2019 -->
 
 Activity: We will do a site-visit to https://www.materialconnexion.com/ and discover properties of different materials and make a selection of things to use in your final projects. 
 
@@ -153,7 +153,7 @@ Review: Teach/train toy UI's from previous week
 Assignment: Pick a target audience for your final project and conduct user interviews and initial playtests. 
 
 #### Week 12: Putting it all together! 
-Date: 04.19.2019
+<!-- Date: 04.19.2019 -->
 
 Activity: In this class, we will put together the initial concept boards for our final projects based on user interviews and explore various technical options for the programming/training functionalities. 
 
@@ -161,13 +161,13 @@ Assignment: Build an initial prototype for your final project and test it with f
 
 
 #### Week 13: Guest speakers - Game Designers 
-Date: 04.26.2019
+<!-- Date: 04.26.2019 -->
 
 Activity: We will get to hear presentations from several experienced game designers and learn how to think about flow and engagement when designing a toy, kit or any other learning activity.
 Assignment: Work on final projects and play expo. 
 
 #### Week 14: Play-a-thon (final presentations)! 
-Date: 05.03.2019
+<!-- Date: 05.03.2019 -->
 
 Activity: Final projects play-a-thon with external guests (kids, families, educators, etc). 
 
@@ -197,7 +197,7 @@ Mike Ashby - Materials and Design
 ### STATEMENT OF ACADEMIC INTEGRITY 
 
 Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
-
+<!-- 
 ### STATEMENT OF PRINCIPLE 
 
 The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members.  It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice.  Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards.  For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook, which can be found online at: http://students.tisch.nyu.edu/page/home.html
@@ -208,7 +208,7 @@ Please feel free to make suggestions to your instructor about ways in which this
 
 ### STATEMENT ON COUNSELING AND WELLNESS 
 
-Your health and safety are a priority at NYU. If you experience any health or mental health issues during this course, we encourage you to utilize the support services of the 24/7 NYU Wellness Exchange 212-443-9999. Also, all students who may require an academic accommodation due to a qualified disability, physical or mental, please register with the Moses Center 212-998-4980. Please let your instructor know if you need help connecting to these resources.
+Your health and safety are a priority at NYU. If you experience any health or mental health issues during this course, we encourage you to utilize the support services of the 24/7 NYU Wellness Exchange 212-443-9999. Also, all students who may require an academic accommodation due to a qualified disability, physical or mental, please register with the Moses Center 212-998-4980. Please let your instructor know if you need help connecting to these resources. -->
 
 ### STATEMENT ON USE OF ELECTRONIC DEVICES 
 
@@ -216,4 +216,4 @@ Laptops will be an essential part of the course and may be used in class during 
 
 ### STATEMENT ON TITLE IX 
 
-Tisch School of the Arts to dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender.  Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link: Title IX at NYU.
+RISD ID is dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end RISD ID is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender.  
