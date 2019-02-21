@@ -105,6 +105,8 @@ After introducing them to the lo-fi prototypes you will show them the other toys
 
 Reflection & production assignment: Go back to your lo-fi prototype and make changes based on kids feedback and field observations. Document your thinking and design process. 
 
+Visit to school xxxx
+
 #### Week 6: Learn from interaction designers for kids 
 <!-- Date: 03.08.2019 -->
 
