@@ -7,3 +7,4 @@
  * Quincy Kuang <https://www.quincykuang.com/>
  
  * Charlie Zhang <http://www.charliezhang.com/>
+ * Shreeya Rajgarhia <http://www.shreeyadesign.com/>
