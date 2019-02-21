@@ -46,10 +46,14 @@ In Class Exercises: We will discuss why we play? How children started playing an
 Reading Assignment: "The Veldt" Short sci-fi story by Ray Bradbury (available [here!](https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/163728/The%20Veldt%20-%20Ray%20Bradbury.pdf)
 Design journal assignment: Share a story about an evocative object from your childhood 
 
-#### Week 2: Diving into smart toys: Cozmo, Hello Barbie and Sphero Mini
+#### Week 2: Explore play patters with Lego Wedo 
+<!-- -->
 <!-- Date: 02.08.2019 -->
 Discussion: Impressions and thoughts on "The Veld" short story
-In Class Exercises: We will play with three connected toys(Cozmo, Hello Barbie and Sphero Mini) and then learn how to look behind the curtain and re-engineer them by using their SDKs, Cognimates and other platforms. Students will also learn how to analyze these toys by looking at their form factor, interaction design, play affordances, and many other criteria. We will also discuss co-designing for play and creative learning with youth and what are some of the most successful strategies for learning by playing and by doing. 
+Review: First toy prototype enhancements.
+Activity in class: We will create various protoypes of toys with Lego Wedo and learn how to program them. Then we will create enhancements for our toys to make them smart by connecting each prototype to one of the senses. 
+Students will then divide into groups, pick some of the parts from different kits and try to combine them in unusual ways. We will also have crafting and prototyping materials for this part of the session. We will end with a play session where we all go around and play with each other creations and provide feedback on each other creations. 
+
 
 Reading Assignments:
 * [Characteristics of Boys' and Girls' Toys!](https://link.springer.com/article/10.1007%2Fs11199-005-7729-0) - Judith Blakemore and Renee E. Centers
@@ -73,12 +77,18 @@ Reading Assignment:
 Research Assignment: Find a toy that you like (or dislike) and try to see how different stakeholders talk about it: how is it presented by the creators, how are parents and kids talking about it, does the toy match their expectations, do they use it in unusual ways? Analyze the toy you picked from all the different perspectives and discuss also cultural, SES and age differences in the recounts you encounter. Document and present your findings in your design journal. Drawings, collages or any other way to capture and present your conclusions are welcomed. 
 
 
+#### Week 3:  Diving into smart toys: Cozmo, Hello Barbie and Sphero Mini
 
-#### Week 4: Tinker Toys: Lego, AIY, and Microbit 
+
+In Class Exercises: We will play with three connected toys(Cozmo, Hello Barbie and Sphero Mini) and then learn how to look behind the curtain and re-engineer them by using their SDKs, Cognimates and other platforms. Students will also learn how to analyze these toys by looking at their form factor, interaction design, play affordances, and many other criteria. We will also discuss co-designing for play and creative learning with youth and what are some of the most successful strategies for learning by playing and by doing. 
+
+
+
+
+#### Week 4: Tinker Toys: AIY, and Microbit 
 <!-- Date: 02.22.2019 -->
 
 Discussion: 3 students will be randomly selected to present their findings on the research assignment (5 min each + Q&A)
-In Class Exercises: In this week class we will play with more DIY and tinkerable toys and learn how to assemble, program them and make them "smart" by connecting them to other cognitive services like vision or sentiment recognition. Students will then divide into groups, pick some of the parts from different kits and try to combine them in unusual ways. We will also have crafting and prototyping materials for this part of the session. We will end with a play session where we all go around and play with each other creations and provide feedback on each other creations. 
 
 Reading Assignment: 
 * [Light it up: using paper circuitry to enhance low-fidelity paper prototypes for children (IDC 18)!](https://dl.acm.org/citation.cfm?id=3202758&dl=ACM&coll=DL) - Hershman et al 
