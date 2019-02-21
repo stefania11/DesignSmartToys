@@ -4,4 +4,4 @@
  *  Billy Mitchell  <https://www.mitchellwill.cargocollective.com/>
  * Diane Han <https://www.dianehandesign.com>
  * Abel Yan <https://abelyan.myportfolio.com/>
- * Charlie Zhang <http://www.charliezhang.com/>
+ * Quincy Kuang <https://www.quincykuang.com/>
