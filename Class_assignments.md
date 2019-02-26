@@ -16,6 +16,7 @@
    * The password for the video is younghoo
 * Quincy,Charlie
    * https://vimeo.com/319904493
+   * https://docs.google.com/presentation/d/1O6K42r0N5FgLD6UH2QY-ZgQWxNQegmjuiCfwNNhsnLI/edit?usp=sharing
 * Xuefei, Lime, Grace
    * https://docs.google.com/presentation/d/1MTARV6j2eO9z3XWazGTPJkqBjJhyAkUFpKSwNX4x5Ys/edit?usp=sharing
    
