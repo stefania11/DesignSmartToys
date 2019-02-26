@@ -14,3 +14,5 @@
 * Luke, Eunyoung 
    * <https://vimeo.com/319688300>
    * The password for the video is younghoo
+* Quincy,Charlie
+   * https://vimeo.com/319904493
