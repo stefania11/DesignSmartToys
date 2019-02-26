@@ -1,5 +1,5 @@
 # First storyboards
-
+* Tae Sam, Sean <https://docs.google.com/presentation/d/1k6aAcaDKOYCAV1AW4YdUGtsJqmKqtO0qehugbUuckKc/edit?usp=sharing>
 * <name><link blogpost>
 * Billy, Shreeya, Sophia <https://www.figma.com/file/MDa8Fp7joYjnmQ0AFFqUAGhf/AI-Toys-Assignment?node-id=0%3A1>
 * Abel, Diane, Hanser - Demo Video (password is the name of our slack channel): <https://vimeo.com/319640508>
