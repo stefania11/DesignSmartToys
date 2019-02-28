@@ -4,6 +4,7 @@
 * Abel Yan <https://ayan-smarttoys.myportfolio.com/class-work>
 * Xuefei Yang <https://medium.com/@xuefeiyang>
 * Hanser Qian <https://hanser-qian.com/>
+* Sophia Xu <https://sites.google.com/risd.edu/hacking-smart-toys-for-ai-lear/>
 * <name><link blogpost>
    
 # First storyboards - 02.26.2019
