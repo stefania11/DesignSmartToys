@@ -4,6 +4,7 @@
  *  Billy Mitchell  <https://www.mitchellwill.cargocollective.com/>
  * Diane Han <https://sites.google.com/a/risd.edu/toys_han/home>
  * Abel Yan <https://abelyan.myportfolio.com/>
+   * Class site <https://ayan-smarttoys.myportfolio.com/>
  * Quincy Kuang <https://www.quincykuang.com/>
  
  * Charlie Zhang <http://www.charliezhang.com/>
