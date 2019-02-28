@@ -2,7 +2,9 @@
 
 * Charlie Zhang <https://sites.google.com/risd.edu/charliezhanghst/>
 * Abel Yan <https://ayan-smarttoys.myportfolio.com/class-work>
+* Xuefei Yang <https://medium.com/@xuefeiyang>
 * <name><link blogpost>
+   
 # First storyboards - 02.26.2019
 * Tae Sam, Sean <https://docs.google.com/presentation/d/1k6aAcaDKOYCAV1AW4YdUGtsJqmKqtO0qehugbUuckKc/edit?usp=sharing>
 * Billy, Shreeya, Sophia <https://www.figma.com/file/MDa8Fp7joYjnmQ0AFFqUAGhf/AI-Toys-Assignment?node-id=0%3A1>
