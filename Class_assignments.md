@@ -5,6 +5,7 @@
 * Xuefei Yang <https://medium.com/@xuefeiyang>
 * Hanser Qian <https://hanser-qian.com/>
 * Sophia Xu <https://sites.google.com/risd.edu/hacking-smart-toys-for-ai-lear/>
+* Diane Han <https://sites.google.com/a/risd.edu/toys_han/>
 * <name><link blogpost>
    
 # First storyboards - 02.26.2019
