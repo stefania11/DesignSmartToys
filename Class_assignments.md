@@ -1,6 +1,7 @@
 # Website documentation - 02.28.2019
 
 * Charlie Zhang <https://sites.google.com/risd.edu/charliezhanghst/>
+* Abel Yan <https://ayan-smarttoys.myportfolio.com/class-work>
 * <name><link blogpost>
 # First storyboards - 02.26.2019
 * Tae Sam, Sean <https://docs.google.com/presentation/d/1k6aAcaDKOYCAV1AW4YdUGtsJqmKqtO0qehugbUuckKc/edit?usp=sharing>
