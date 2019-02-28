@@ -8,6 +8,7 @@
  * Quincy Kuang <https://www.quincykuang.com/>
  
  * Charlie Zhang <http://www.charliezhang.com/>
+   *Documentation Site <https://sites.google.com/risd.edu/charliezhanghst/>
  * Shreeya Rajgarhia <http://www.shreeyadesign.com/>
  * Xuefei Yang <https://www.xuefei-yang.com>
  * Lime Song <http://limesong.work>
