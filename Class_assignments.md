@@ -7,6 +7,7 @@
 * Sophia Xu <https://sites.google.com/risd.edu/hacking-smart-toys-for-ai-lear/>
 * Diane Han <https://sites.google.com/a/risd.edu/toys_han/>
 * Luke Song <https://lyhsong.wixsite.com/toys>
+* Quincy Kuang <https://www.quincykuang.com/copy-of-eggs-001>
 * <name><link blogpost>
    
 # First storyboards - 02.26.2019
