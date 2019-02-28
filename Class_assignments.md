@@ -3,6 +3,7 @@
 * Charlie Zhang <https://sites.google.com/risd.edu/charliezhanghst/>
 * Abel Yan <https://ayan-smarttoys.myportfolio.com/class-work>
 * Xuefei Yang <https://medium.com/@xuefeiyang>
+* Hanser Qian <https://hanser-qian.com/>
 * <name><link blogpost>
    
 # First storyboards - 02.26.2019
