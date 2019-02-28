@@ -46,7 +46,7 @@ In Class Exercises: We will discuss why we play? How children started playing an
 Reading Assignment: "The Veldt" Short sci-fi story by Ray Bradbury (available [here!](https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/163728/The%20Veldt%20-%20Ray%20Bradbury.pdf)
 Design journal assignment: Share a story about an evocative object from your childhood 
 
-#### Week 2: Explore play patters with Lego Wedo 
+#### Week 2: Explore play patterns with Lego Wedo 
 <!-- -->
 <!-- Date: 02.08.2019 -->
 Discussion: Impressions and thoughts on "The Veld" short story
