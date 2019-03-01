@@ -8,8 +8,8 @@
 * Diane Han <https://sites.google.com/a/risd.edu/toys_han/>
 * Luke Song <https://lyhsong.wixsite.com/toys>
 * Quincy Kuang <https://www.quincykuang.com/copy-of-eggs-001>
-* <name><link blogpost>
 * Shreeya Rajgarhia <https://medium.com/me/stories/public>
+* <name><link blogpost>
    
 # First storyboards - 02.26.2019
 * Tae Sam, Sean <https://docs.google.com/presentation/d/1k6aAcaDKOYCAV1AW4YdUGtsJqmKqtO0qehugbUuckKc/edit?usp=sharing>
