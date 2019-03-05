@@ -10,6 +10,7 @@
 * Quincy Kuang <https://www.quincykuang.com/copy-of-eggs-001>
 * Shreeya Rajgarhia <https://medium.com/me/stories/public>
 * Eunyoung Lee <https://sites.google.com/risd.edu/elee/home>
+* Lime Song https://medium.com/@coolime96
    
 # First storyboards - 02.26.2019
 * Tae Sam, Sean <https://docs.google.com/presentation/d/1k6aAcaDKOYCAV1AW4YdUGtsJqmKqtO0qehugbUuckKc/edit?usp=sharing>
