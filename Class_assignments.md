@@ -8,6 +8,7 @@
 * Diane Han <https://sites.google.com/a/risd.edu/toys_han/>
 * Luke Song <https://lyhsong.wixsite.com/toys>
 * Quincy Kuang <https://www.quincykuang.com/copy-of-eggs-001>
+* Sean Elrifai <https://medium.com/@selrifai>
 * Shreeya Rajgarhia <https://medium.com/me/stories/public>
 * Eunyoung Lee <https://sites.google.com/risd.edu/elee/home>
 * Lime Song https://medium.com/@coolime96
