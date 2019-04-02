@@ -8,7 +8,7 @@
 * Sophia Xu <https://sites.google.com/risd.edu/hacking-smart-toys-for-ai-lear/>
 * Diane Han <https://sites.google.com/a/risd.edu/toys_han/>
 * Luke Song <https://lyhsong.wixsite.com/toys>
-* Quincy Kuang <https://www.quincykuang.com/copy-of-eggs-001>
+* Quincy Kuang (reflections,commentaries and responses are under "reflection blog" at the top of the page)<https://www.quincykuang.com/copy-of-eggs-001>
 * Sean Elrifai <https://selrifai9e96.myportfolio.com/>
 * Shreeya Rajgarhia <https://medium.com/me/stories/public>
 * Eunyoung Lee <https://sites.google.com/risd.edu/elee/home>
