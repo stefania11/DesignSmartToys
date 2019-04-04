@@ -1,6 +1,5 @@
 # Website documentation - 02.28.2019
 
-* Tae Sam Lee Zamora <https://smart-toys-tslz.myportfolio.com/>
 * Charlie Zhang <https://sites.google.com/risd.edu/charliezhanghst/>
 * Abel Yan (reading responses are under the "musings" option in the top left) <https://ayan-smarttoys.myportfolio.com/class-work>
 * Xuefei Yang <https://medium.com/@xuefeiyang>
@@ -10,6 +9,8 @@
 * Luke Song <https://lyhsong.wixsite.com/toys>
 * Quincy Kuang (reflections,commentaries and responses are under "reflection blog" at the top of the page)<https://www.quincykuang.com/copy-of-eggs-001>
 * Sean Elrifai <https://selrifai9e96.myportfolio.com/>
+* Tae Sam Lee Zamora <https://smart-toys-tslz.myportfolio.com/>
+Cuddles Process <https://medium.com/@tlee08/hacking-a-stuffed-animal-a-k-a-cuddles-the-sloth-a481eb30913a>
 * Shreeya Rajgarhia <https://medium.com/me/stories/public>
 * Eunyoung Lee <https://sites.google.com/risd.edu/elee/home>
 * Lime Song https://medium.com/@coolime96
