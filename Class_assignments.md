@@ -15,7 +15,7 @@ Cuddles Process <https://medium.com/@tlee08/hacking-a-stuffed-animal-a-k-a-cuddl
 * Eunyoung Lee <https://sites.google.com/risd.edu/elee/home>
 * Lime Song https://medium.com/@coolime96
 * Billy Mitchell <https://billyamitchell.github.io/bopit-design-journal.github.io/>
-* Grace Oh <https://www.graceoh.design/>
+* Grace Oh <https://medium.com/@goh_88331>
    
 # First storyboards - 02.26.2019
 * Tae Sam, Sean <https://docs.google.com/presentation/d/1k6aAcaDKOYCAV1AW4YdUGtsJqmKqtO0qehugbUuckKc/edit?usp=sharing>
