@@ -10,6 +10,10 @@
 * Quincy Kuang (reflections,commentaries and responses are under "reflection blog" at the top of the page)<https://www.quincykuang.com/copy-of-eggs-001>
 * Sean Elrifai <https://selrifai9e96.myportfolio.com/>
 * Tae Sam Lee Zamora <https://smart-toys-tslz.myportfolio.com/>
+<https://medium.com/@tlee08/>
+Cuddles Process <https://medium.com/@tlee08/hacking-a-stuffed-animal-a-k-a-cuddles-the-sloth-a481eb30913a>
+Cuddles Play-test <https://medium.com/@tlee08/play-testing-our-smart-stuffed-animal-a-k-a-cuddles-the-sloth-1c62c1c2907f?fbclid=IwAR3E0dEcA8t_XdeYLS2bPDULwlKuERbxbW1OD5ul_M2w4HeIG4kkJHr-rR8>
+* Shreeya Rajgarhia <https://medium.com/me/stories/public>
 Cuddles Process <https://medium.com/@tlee08/hacking-a-stuffed-animal-a-k-a-cuddles-the-sloth-a481eb30913a>
 * Shreeya Rajgarhia <https://medium.com/me/stories/public>
 * Eunyoung Lee <https://sites.google.com/risd.edu/elee/home>
