@@ -9,7 +9,7 @@
  
  * Charlie Zhang <http://www.charliezhang.com/>
    *Documentation Site <https://sites.google.com/risd.edu/charliezhanghst/>
- * Shreeya Rajgarhia <http://www.shreeyadesign.com/>
+ * Shreeya Rajgarhia <https://medium.com/@srajgarh/robions-b3b3e0add2cf>
  * Xuefei Yang <https://www.xuefei-yang.com>
  * Lime Song <http://limesong.work>
    *Documentation Site https://medium.com/@coolime96
